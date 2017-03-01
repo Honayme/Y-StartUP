@@ -55,6 +55,11 @@ $(document).ready(function() {
 
 			if (scroll >= 20) {
 				$('section.navigation').addClass('fixed');
+				// $('.header-content').css('text-align','left');
+				// $('#logo').attr('src', 'img/min.png');
+				$('#logo').addClass('hidden');
+				$('.logo1').removeClass('hidden');
+
 				$('header').css({
 					"border-bottom": "none",
 					"padding": "35px 0"
@@ -67,6 +72,11 @@ $(document).ready(function() {
 				});
 			} else {
 				$('section.navigation').removeClass('fixed');
+				// $('#logo').attr('src', 'img/logoAtelier');
+				$('#logo').removeClass('hidden');
+				$('.logo1').addClass('hidden');
+
+				$('.header-content').css('text-align','center');
 				$('header').css({
 					"border-bottom": "solid 1px rgba(255, 255, 255, 0.2)",
 					"padding": "50px 0"

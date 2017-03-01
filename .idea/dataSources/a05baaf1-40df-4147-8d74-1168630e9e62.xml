@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Oracle - @localhost">
+  <database-model serializer="dbm" rdbms="ORACLE" format-version="2.6">
+    <schema id="1" name="FLORIAN">
+      <object-id>104</object-id>
+      <visible>1</visible>
+      <introspection-timestamp>2016-12-06.12:00:14</introspection-timestamp>
+    </schema>
+    <schema id="2" name="PUBLIC">
+      <object-id>1</object-id>
+    </schema>
+    <schema id="3" name="SYS"/>
+    <schema id="4" name="AUDSYS">
+      <object-id>7</object-id>
+    </schema>
+    <schema id="5" name="SYSTEM">
+      <object-id>8</object-id>
+    </schema>
+    <schema id="6" name="OUTLN">
+      <object-id>13</object-id>
+    </schema>
+    <schema id="7" name="GSMADMIN_INTERNAL">
+      <object-id>21</object-id>
+    </schema>
+    <schema id="8" name="GSMUSER">
+      <object-id>22</object-id>
+    </schema>
+    <schema id="9" name="DIP">
+      <object-id>23</object-id>
+    </schema>
+    <schema id="10" name="ORACLE_OCM">
+      <object-id>36</object-id>
+    </schema>
+    <schema id="11" name="DBSNMP">
+      <object-id>48</object-id>
+    </schema>
+    <schema id="12" name="APPQOSSYS">
+      <object-id>49</object-id>
+    </schema>
+    <schema id="13" name="XDB">
+      <object-id>50</object-id>
+    </schema>
+    <schema id="14" name="ANONYMOUS">
+      <object-id>51</object-id>
+    </schema>
+    <schema id="15" name="GSMCATUSER">
+      <object-id>61</object-id>
+    </schema>
+    <schema id="16" name="WMSYS">
+      <object-id>62</object-id>
+    </schema>
+    <schema id="17" name="OJVMSYS">
+      <object-id>70</object-id>
+    </schema>
+    <schema id="18" name="CTXSYS">
+      <object-id>73</object-id>
+    </schema>
+    <schema id="19" name="ORDSYS">
+      <object-id>75</object-id>
+    </schema>
+    <schema id="20" name="ORDDATA">
+      <object-id>76</object-id>
+    </schema>
+    <schema id="21" name="ORDPLUGINS">
+      <object-id>77</object-id>
+    </schema>
+    <schema id="22" name="SI_INFORMTN_SCHEMA">
+      <object-id>78</object-id>
+    </schema>
+    <schema id="23" name="MDSYS">
+      <object-id>79</object-id>
+    </schema>
+    <schema id="24" name="OLAPSYS">
+      <object-id>82</object-id>
+    </schema>
+    <schema id="25" name="MDDATA">
+      <object-id>85</object-id>
+    </schema>
+    <schema id="26" name="SPATIAL_WFS_ADMIN_USR">
+      <object-id>87</object-id>
+    </schema>
+    <schema id="27" name="SPATIAL_CSW_ADMIN_USR">
+      <object-id>90</object-id>
+    </schema>
+    <schema id="28" name="LBACSYS">
+      <object-id>92</object-id>
+    </schema>
+    <schema id="29" name="FLOWS_FILES">
+      <object-id>94</object-id>
+    </schema>
+    <schema id="30" name="APEX_PUBLIC_USER">
+      <object-id>95</object-id>
+    </schema>
+    <schema id="31" name="APEX_040200">
+      <object-id>98</object-id>
+    </schema>
+    <schema id="32" name="DVF">
+      <object-id>99</object-id>
+    </schema>
+    <schema id="33" name="SCOTT">
+      <object-id>102</object-id>
+    </schema>
+    <schema id="34" name="YNOV">
+      <object-id>103</object-id>
+    </schema>
+    <schema id="35" name="DVSYS">
+      <object-id>1279990</object-id>
+    </schema>
+    <schema id="36" name="SYSBACKUP">
+      <object-id>2147483617</object-id>
+    </schema>
+    <schema id="37" name="SYSDG">
+      <object-id>2147483618</object-id>
+    </schema>
+    <schema id="38" name="SYSKM">
+      <object-id>2147483619</object-id>
+    </schema>
+    <schema id="39" name="XS$NULL">
+      <object-id>2147483638</object-id>
+    </schema>
+  </database-model>
+</dataSource>
